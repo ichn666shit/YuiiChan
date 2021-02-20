@@ -86,7 +86,7 @@ HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @YuiiChanSupport
+If you have any questions on how to use me, head over to YOURMOM hehe
 
 *Main* commands available:
  • /start: start the bot
@@ -107,9 +107,7 @@ And the following:
 
 SAITAMA_IMG = "https://telegra.ph/file/69a84b4548087b06afef4.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+DONATE_STRING = """WHAT? NO, NOPE NOPE"""
 
 IMPORTED = {}
 MIGRATEABLE = []
